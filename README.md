@@ -1,23 +1,21 @@
-# Hello, I'm Bioye! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abioye
+==============================================================================================================================
 
-Welcome to my GitHub space! I'm a dedicated Data Analyst with a passion for transforming raw data into clear, actionable insights. Armed with SQL, Python, and a knack for visual storytelling through Tableau and Power BI, I thrive on supporting data-driven decision making in fast-paced environments.
+Data Analyst
+------------
 
-## 🌱 What I'm focusing on
+* 🌍  I'm based in Lagos, Nigeria
+* 🖥️  See my portfolio at [Myportfolio](http://thave-1.github.io/agba_analytics.github.io/)
+* ✉️  You can contact me at [abioyeoyelade5@gmail.com](mailto:abioyeoyelade5@gmail.com)
+* 🚀  I'm currently working on [Interactive Dashboard on Tableau](http://public.tableau.com/app/profile/abioye.oyelade/vizzes)
+* 🧠  I'm learning machine learning
+* 🤝  I'm open to collaborating on interesting data project
+* ⚡  I'm currently available for hire
 
-I'm currently diving deeper into advanced analytical methods, enhancing my skills in predictive analytics, and exploring the vast possibilities within big data ecosystems. My goal is to uncover trends and patterns that are not immediately apparent, providing strategic value to businesses.
+### Skills
 
-## 🔭 Projects Highlight
 
-- **Boston Housing Analysis**: Implemented Regression Analysis and other statistical methods to extract insights based on factors that affect boston house prices. 
-- **House Sales Interactive Dashboard**: Designed and developed an interactive dashboard to track sales performance in real-time, enabling stakeholders to make informed decisions quickly.You check out my [Tableau Projects](https://public.tableau.com/app/profile/abioye.oyelade/vizzes)
-
-## 📫 How to reach me
-
-Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/david-oyelade-6b1a37248/) or send me an email at `abioyeoyelade5@gmail.com`. Whether it's a project collaboration or just a chat about data, I'm all ears.
-
-## 💬 More about me
-
-- 📊 I'm fascinated by the storytelling power of data and how it can influence decisions.
-- 🎓 Always learning, I'm currently focused on enhancing my statistical analysis skills.
-- 🌍 I aspire to use my data analysis skills to contribute to social good initiatives, making a tangible impact on communities.
-
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+￼Enter
